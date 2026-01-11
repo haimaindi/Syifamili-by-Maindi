@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Syifamili v10 - Family Medical Record",
+  "description": "A comprehensive family medical record system with AI-powered insights for growth tracking (WHO/IDAI), elderly care, medication reminders, and appointment scheduling.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
